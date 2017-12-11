@@ -10,3 +10,6 @@ Then you will be able to just run `tmpfiles -f /path/to/somefile.txt` anywhere
 
 
 ### Written by John Brechisci
+
+
+jq is provided by https://github.com/stedolan/jq, their license can be [found here](https://github.com/stedolan/jq/blob/master/COPYING)
