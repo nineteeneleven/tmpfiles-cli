@@ -1,4 +1,4 @@
-# Uploads a file to tmpfiles.com
+# Uploads a file to [tmpfiles.com](https://tmpfiles.com)
 To install so you can access from anywhere you can symlink tmpfiles.bash to /bin. `ln -s /path/to/tmpfiles.bash /bin/tmpfiles`
 Then you will be able to just run `tmpfiles -f /path/to/somefile.txt` anywhere
 # Arguments
